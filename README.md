@@ -1,7 +1,7 @@
 # SOUL
 
 ## Installation 
-1. Drag the following files into your Game folder `Steam\steamapps\common\Titan Quest Anniversary Edition`
+1. Download and drag the following files into your Game folder `Steam\steamapps\common\Titan Quest Anniversary Edition`
    * Soul.dll
    * SoulCore.dll
    * Soul.lib
