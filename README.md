@@ -6,7 +6,7 @@
    * SoulCore.dll
    * Soul.lib
    * SoulPatch.bat
-2. Directly to, or drag them into your Game folder: `Steam\steamapps\common\Titan Quest Anniversary Edition`
+2. Directly to, or drag them into your Game folder: `Steam\steamapps\common\Titan Quest Anniversary Edition` or alternative
 3. Run `SoulPatch.bat`
   * Choose [1] Install
 
