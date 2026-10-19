@@ -12,7 +12,7 @@
 
 The game then will patch your vanilla files. Make sure you don't have any modified executable or libaries, such as 4GB patch or it will refuse to install. 
 
-3. Download/Subscribe the mod from [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3421932842)
+4. Download/Subscribe the mod from [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3421932842) or [Nexus]() 
 
 Afterwards, load the game as normal.
    
