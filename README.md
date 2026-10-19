@@ -1,12 +1,13 @@
 # SOUL (ψυχή)
 
 ## Installation 
-1. Download and drag the following files into your Game folder `Steam\steamapps\common\Titan Quest Anniversary Edition`
+1. Download (\soul\ -> top right panel 📥 Download Raw File) the following:
    * Soul.dll
    * SoulCore.dll
    * Soul.lib
    * SoulPatch.bat
-2. Run `SoulPatch.bat`
+2. Directly to or drag them into your Game folder `Steam\steamapps\common\Titan Quest Anniversary Edition`
+3. Run `SoulPatch.bat`
   * Choose [1] Install
 
 The game then will patch your vanilla files. Make sure you don't have any modified executable or libaries, such as 4GB patch or it will refuse to install. 
