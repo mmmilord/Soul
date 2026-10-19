@@ -1,4 +1,4 @@
-# SOUL
+# SOUL (ψυχή)
 
 ## Installation 
 1. Download and drag the following files into your Game folder `Steam\steamapps\common\Titan Quest Anniversary Edition`
