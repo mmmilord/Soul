@@ -38,7 +38,7 @@ ONLY If there are any complications with uninstallation, the original files can 
 ## FAQ
 If you experience frequent crashing, try:
 1. Disabling Steam Overlay
-2. Navigate to: [b]D:\Games\Steam\steamapps\common\Titan Quest Anniversary Edition\THQNOnline[/b] and move or delete the [b]"Overlay"[/b] folder so it's no longer in directory
+2. Navigate to: `D:\Games\Steam\steamapps\common\Titan Quest Anniversary Edition\THQNOnline` and move or delete the **"Overlay"** folder so it's no longer in directory
 
 
 
