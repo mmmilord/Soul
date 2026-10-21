@@ -35,6 +35,10 @@ ONLY If there are any complications with uninstallation, the original files can 
 
  And `verifying integrity of game files` through Steam's Game options (Game Library: Titan Quest Anniversary Edition -> Properties -> Installed Files)
 
+## FAQ
+If you experience frequent crashing, try:
+1. Disabling Steam Overlay
+2. Navigate to: [b]D:\Games\Steam\steamapps\common\Titan Quest Anniversary Edition\THQNOnline[/b] and move or delete the [b]"Overlay"[/b] folder so it's no longer in directory
 
 
 
